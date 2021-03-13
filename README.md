@@ -1,6 +1,4 @@
 ### Like a Chipmunk! 🐿️
-[![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/) [![Java Badge](https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
-
 call me `례비`
 
  <div align=right>  
@@ -12,6 +10,7 @@ call me `례비`
 ### Worlyep Jung 
 - 6 year old Chipmunk 🐿️
 - Android Developer 👾
+- [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/) [![Java Badge](https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
 
 ### I like 😎
 - music 🎙️
