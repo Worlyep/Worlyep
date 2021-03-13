@@ -1,5 +1,4 @@
 ### Like a Chipmunk! 🐿️
-call me `례비`
 
  <div align=right>  
   
@@ -8,9 +7,10 @@ call me `례비`
   </div>
   
 ### Worlyep Jung 
+- call me `례비`
 - 6 year old Chipmunk 🐿️
 - Android Developer 👾
-- [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/) [![Java Badge](https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
+- Kurly Corp. (2020 -)
 
 ### I like 😎
 - music 🎙️
@@ -19,13 +19,13 @@ call me `례비`
 - make_things 🏗️
 - chipmunk 🐿️
 
+## Skills
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/) [![Java Badge](https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
+
 ## Statistics
-  <div align=center>
-  
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=worlyep&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worlyep&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worlyep&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=worlyep&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Worlyep/Worlyep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
