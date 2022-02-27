@@ -8,7 +8,7 @@
   
 ### Worlyep Jung 
 - call me `례비`
-- 6 year old Chipmunk 🐿️
+- 8 year old Chipmunk 🐿️
 - Android Developer 👾
 - Kurly Corp. (2020 -)
 
