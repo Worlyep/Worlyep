@@ -20,7 +20,7 @@
 - chipmunk 🐿️
 
 ## Skills
-[![Android Badge](https://img.shields.io/badge/Andorid-33DE84?style=flat-square&logo=Kotlin&logoColor=white)](https://developer.android.com/?hl=ko) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/) [![Java Badge](https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
+[![Android Badge](https://img.shields.io/badge/Andorid-33DE84?style=flat-square&logoColor=white)](https://developer.android.com/?hl=ko) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/) [![Java Badge](https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
 
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worlyep&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
