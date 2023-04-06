@@ -1,11 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWorlyep)](https://hits.seeyoufarm.com)
 
-[![Android Badge](https://img.shields.io/badge/Andorid-brightgreen?logo=android&logoColor=white)](https://developer.android.com/?hl=ko) [![Java Badge](https://img.shields.io/badge/Java-FF0000?logo=Java&logoColor=white)](https://www.java.com/ko/) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-8052FF?logo=Kotlin&logoColor=white)](https://kotlinlang.org/) 
-
-[![iOS Badge](https://img.shields.io/badge/iOS-lightgrey?logo=apple&logoColor=white)](https://developer.apple.com/kr/) [![Swift Badge](https://img.shields.io/badge/Swift-FC973A?logo=swift&logoColor=white)](https://developer.apple.com/kr/swift/) 
-
-[![Flutter Badge](https://img.shields.io/badge/flutter-0467D7?logo=flutter&logoColor=white)](https://docs.flutter.dev/get-started/install) [![Dart Badge](https://img.shields.io/badge/Dart-4B88F1?logo=dart&logoColor=white)](https://dart.dev/)
-
 ## Like a Chipmunk! 🐿️ 
   
 ### Worlyep Jung 
